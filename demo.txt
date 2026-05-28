@@ -1,1 +1,3 @@
 welcome to github
+
+github is a repository. 
